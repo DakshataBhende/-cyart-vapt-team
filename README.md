@@ -76,7 +76,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 3. Analyze services for potential weaknesses.
 4. Save scan results.
 
-### Evidence: Scans/Nmap Scan.pdf
+### Evidence: Week-2/Scans/Nmap Scan.pdf
 
 ### 2.2 Nikto Scan (Web Application Scanning)
 
@@ -91,7 +91,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
       - Default files and configurations
 4. Save results.
 
-### Evidence: Scans/Nikto Scan.pdf
+### Evidence: Week-2/ Scans/Nikto Scan.pdf
 
 ### 2.3 OpenVAS Scan 
 
@@ -104,7 +104,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 3. Analyze detected CVEs and severity levels.
 4. Export scan report.
 
-### Evidence: Scans/Openvas.pdf
+### Evidence: Week-2/Scans/Openvas.pdf
 
 ## 3. Vulnerability Analysis & CVE Documentation
 
@@ -117,7 +117,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 3. Assign severity using CVSS (Low / Medium / High / Critical).
 4. Prepare CVE documentation.
 
-### Evidence: CVE Sheet/CVE sheet screenshot.png
+### Evidence: Week-2/CVE Sheet/CVE sheet screenshot.png
 
 ## 7. Exploitation 
 
@@ -130,7 +130,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 3. Observe results such as access gained or payload execution.
 4. Capture screenshots for evidence.
 
-### Evidence: Exploitation/
+### Evidence: Week-2/Exploitation/
 
 ## 8. Post-Exploitation 
 
