@@ -14,7 +14,15 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - Testing Type: Internal VAPT
 - Environment: Isolated lab setup
 
-## 3. Tools Used
+## 3. Lab Environment
+
+| Component        | Details                                               |
+| ---------------- | ----------------------------------------------------- |
+| Attacker Machine | Kali Linux                                            |
+| Target Machine   | Metasploitable2 / DVWA                                |
+| Network          | Internal Host-Only Network   
+
+## 4. Tools Used
 
 - Nmap – Network and service scanning
 - Nikto – Web application vulnerability scanning
@@ -24,7 +32,16 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - sqlmap – SQL injection testing
 - Google Docs / PDF – Documentation and reporting
 
-## 4. Complete Workflow
+## 5. Methodology
+
+### Phases:
+1. Reconnaissance
+2. Vulnerability Scanning
+3. Exploitation
+4. Post-Exploitation
+5. Reporting
+
+## 6. Complete Workflow
 
 ## 1. Reconnaissance (Information Gathering)
 
@@ -102,7 +119,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: CVE Sheet/CVE sheet screenshot.png
 
-## 4. Exploitation 
+## 7. Exploitation 
 
 ### Objective:
 - Validate vulnerabilities by controlled exploitation.
@@ -115,7 +132,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Exploitation/
 
-## 5. Post-Exploitation 
+## 8. Post-Exploitation 
 
 ### Objective:
 - Understand the impact after successful exploitation.
@@ -127,7 +144,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Exploitation/
 
-## 6. Reporting & Documentation
+## 9. Reporting & Documentation
 
 ### Objective:
 - To document findings in a clear and professional manner.
@@ -137,6 +154,6 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - Organize evidence such as PDFs and screenshots.
 - Document workflow and observations.
 
-## 7. Conclusion
+## 10. Conclusion
 
 This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation, risk analysis, and documentation while adhering to ethical standards and industry-recognized methodologies.
