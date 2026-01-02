@@ -43,7 +43,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ## 6. Complete Workflow
 
-## 1. Reconnaissance (Information Gathering)
+## 6.1. Reconnaissance (Information Gathering)
 
 ### Objective:
 - Gather initial information about the target to understand its attack surface.
@@ -59,14 +59,14 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - Exposed services
 - Technology stack information
 
-### Evidence: Recon/Recon.pdf
+### Evidence: Week-2/Recon/Recon.pdf
 
-## 2. Vulnerability Scanning
+## 6.2. Vulnerability Scanning
 
 ### Objective:
 - Identify vulnerabilities, misconfigurations, and insecure services.
 
-### 2.1 Nmap Scan (Network Scanning)
+### 6.2.1 Nmap Scan (Network Scanning)
 ### Objective:
 - To discover open ports and active services on the target system.
   
@@ -78,7 +78,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Week-2/Scans/Nmap Scan.pdf
 
-### 2.2 Nikto Scan (Web Application Scanning)
+### 6.2.2 Nikto Scan (Web Application Scanning)
 
 ### Objective:
 - Identify web server and application-level vulnerabilities.
@@ -93,7 +93,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Week-2/ Scans/Nikto Scan.pdf
 
-### 2.3 OpenVAS Scan 
+### 6.2.3 OpenVAS Scan 
 
 ### Objective:
 - To perform automated vulnerability scanning and assess security risks on the target system.
@@ -106,7 +106,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Week-2/Scans/Openvas.pdf
 
-## 3. Vulnerability Analysis & CVE Documentation
+## 6.3. Vulnerability Analysis & CVE Documentation
 
 ### Objective:
 - Assess the severity and risk of identified vulnerabilities.
