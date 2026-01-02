@@ -71,7 +71,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - To discover open ports and active services on the target system.
   
 ### Steps:
-1. Run: nmap -sS -sV -O 192.168.72.129 -oN nmap_scan.txt
+1. Run: *nmap -sS -sV -O 192.168.72.129 -oN nmap_scan.txt*
 2. Identify open ports and running services.
 3. Analyze services for potential weaknesses.
 4. Save scan results.
@@ -85,7 +85,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Steps:
 1. Identify HTTP/HTTPS service running on the target.
-2. Run Nikto scan: nikto -h http://192.168.72.129
+2. Run Nikto scan: *nikto -h http://192.168.72.129*
 3. Detect issues such as:
       - Insecure HTTP headers
       - Default files and configurations
