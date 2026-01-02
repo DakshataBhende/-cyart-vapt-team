@@ -6,7 +6,7 @@ vapt_task02
 ## 1. Project Overview
 
 This repository documents Week-2 Vulnerability Assessment and Penetration Testing (VAPT) activities performed in a controlled laboratory environment.
-The objective is to understand reconnaissance, vulnerability scanning, exploitation basics, risk analysis, and reporting while following ethical and guidelines.
+The objective is to understand reconnaissance, vulnerability scanning, exploitation, post-exploitation, and reporting, using industry-standard tools and methodologies in an ethical and controlled lab environment.
 
 ## 2. Scope
 
@@ -127,17 +127,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Exploitation/
 
-## 6. Risk Assessment & Prioritization
-
-### Objective:
-- To prioritize identified vulnerabilities based on severity and potential impact.
-
-### Steps:
-- Classify vulnerabilities using CVSS severity levels.
-- Identify high and critical risk findings.
-- Recommend remediation priority.
-
-## 7. Reporting & Documentation
+## 6. Reporting & Documentation
 
 ### Objective:
 - To document findings in a clear and professional manner.
@@ -147,6 +137,6 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - Organize evidence such as PDFs and screenshots.
 - Document workflow and observations.
 
-## 8. Conclusion
+## 7. Conclusion
 
 This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation, risk analysis, and documentation while adhering to ethical standards and industry-recognized methodologies.
