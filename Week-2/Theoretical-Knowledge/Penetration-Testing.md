@@ -1,11 +1,11 @@
 # Penetration Testing
 
-# 1. Introduction
+## 1. Introduction
 
 Penetration testing is an authorized simulated cyberattack performed to evaluate the security of systems, networks, and applications. Unlike vulnerability scanning, penetration testing aims to actively exploit vulnerabilities to determine their real-world impact.
 The goal is to identify how attackers can breach systems and what damage they can cause.
 
-# 2. Types of Penetration Testing
+## 2. Types of Penetration Testing
 
 1. Black Box Testing
 
@@ -22,7 +22,7 @@ The goal is to identify how attackers can breach systems and what damage they ca
 - Partial knowledge provided.
 - Balanced and commonly used.
 
-# 3. Phases of Penetration Testing
+## 3. Phases of Penetration Testing
 
 1. Reconnaissance
 
@@ -46,13 +46,13 @@ The goal is to identify how attackers can breach systems and what damage they ca
 
 - Documentation of findings and remediation steps
 
-# 4. Importance of Penetration Testing
+## 4. Importance of Penetration Testing
 
 - Validates real-world exploitability
 - Prioritizes critical vulnerabilities
 - Improves incident response preparedness
 - Required for high-security environments
 
-# 5. Conclusion
+## 5. Conclusion
 
 Penetration testing provides practical assurance of system security. It complements vulnerability scanning by demonstrating how vulnerabilities can be chained and exploited, helping organizations understand and mitigate real attack risks.
