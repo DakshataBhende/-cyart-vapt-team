@@ -157,4 +157,4 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ## 10. Conclusion
 
-This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation, risk analysis, and documentation while adhering to ethical standards and industry-recognized methodologies.
+This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation,post-exploitation, and documentation while adhering to ethical standards and industry-recognized methodologies.
