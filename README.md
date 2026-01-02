@@ -131,8 +131,8 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 4. Capture screenshots for evidence.
 
 ### Evidence: 
-1. Week-2/Exploitation/metasploit_screenshots/Exploitation & Post-Exploitation.pdf (Metaploit Exploitation)
-2. Week-2/Exploitation/DVWA/DVWA_screenshots.pdf (DVWA Exploitation)
+### 1. Metaploit Exploitation - Week-2/Exploitation/metasploit_screenshots/Exploitation & Post-Exploitation.pdf 
+### 2. DVWA Exploitation - Week-2/Exploitation/DVWA/DVWA_screenshots.pdf 
               
 ## 8. Post-Exploitation 
 
@@ -158,4 +158,4 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ## 10. Conclusion
 
-This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation,post-exploitation, and documentation while adhering to ethical standards and industry-recognized methodologies.
+This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation,post-exploitation and documentation while adhering to ethical standards and industry-recognized methodologies.
