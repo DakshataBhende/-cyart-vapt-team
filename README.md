@@ -44,3 +44,109 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Recon/Recon.pdf
 
+### 2. Vulnerability Scanning
+
+### Objective:
+- Identify vulnerabilities, misconfigurations, and insecure services.
+
+### 2.1 Nmap Scan (Network Scanning)
+### Objective:
+- To discover open ports and active services on the target system.
+  
+### Steps:
+1. Run: nmap -sS -sV -O 192.168.72.129 -oN nmap_scan.txt
+2. Identify open ports and running services.
+3. Analyze services for potential weaknesses.
+4. Save scan results.
+
+### Evidence: Scans/Nmap Scan.pdf
+
+### 2.2 Nikto Scan (Web Application Scanning)
+
+### Objective:
+- Identify web server and application-level vulnerabilities.
+
+### Steps:
+1. Identify HTTP/HTTPS service running on the target.
+2. Run Nikto scan: nikto -h http://192.168.72.129
+3. Detect issues such as:
+      - Insecure HTTP headers
+      - Default files and configurations
+4. Save results.
+
+### Evidence: Scans/Nikto Scan.pdf
+
+### 2.3 OpenVAS Scan 
+
+### Objective:
+- To perform automated vulnerability scanning and assess security risks on the target system.
+
+### Steps:
+1. Configure the target in OpenVAS.
+2. Run a full vulnerability scan.
+3. Analyze detected CVEs and severity levels.
+4. Export scan report.
+
+### Evidence: Scans/Openvas.pdf
+
+### 3. Vulnerability Analysis & CVE Documentation
+
+### Objective:
+- Assess the severity and risk of identified vulnerabilities.
+
+### Steps:
+1. Review scan results from Nmap, Nikto, and OpenVAS.
+2. Identify relevant CVEs.
+3. Assign severity using CVSS (Low / Medium / High / Critical).
+4. Prepare CVE documentation.
+
+### Evidence: CVE Sheet/CVE sheet screenshot.png
+
+### 4. Exploitation 
+
+### Objective:
+- Validate vulnerabilities by controlled exploitation.
+
+### Steps:
+1. Use Metasploit to simulate exploitation of known vulnerabilities.
+2. Perform SQL injection testing using sqlmap on vulnerable applications (DVWA).
+3. Observe results such as access gained or payload execution.
+4. Capture screenshots for evidence.
+
+### Evidence: Exploitation/
+
+### 5. Post-Exploitation 
+
+### Objective:
+- Understand the impact after successful exploitation.
+
+### Steps:
+1. Analyze the level of access achieved.
+2. Study privilege escalation concepts.
+3. Avoid destructive or unauthorized actions.
+
+### Evidence: Exploitation/
+
+### 6. Risk Assessment & Prioritization
+
+### Objective:
+- To prioritize identified vulnerabilities based on severity and potential impact.
+
+### Steps:
+- Classify vulnerabilities using CVSS severity levels.
+- Identify high and critical risk findings.
+- Recommend remediation priority.
+
+### 7. Reporting & Documentation
+
+### Objective:
+- To document findings in a clear and professional manner.
+
+### Steps:
+- Compile scanning and exploitation results.
+- Organize evidence such as PDFs and screenshots.
+- Document workflow and observations.
+
+### 8. Conclusion
+
+This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation, risk analysis, and documentation while adhering to ethical standards and industry-recognized methodologies.
