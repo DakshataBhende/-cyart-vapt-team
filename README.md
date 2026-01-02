@@ -26,7 +26,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ## 4. Complete Workflow
 
-### 1. Reconnaissance (Information Gathering)
+## 1. Reconnaissance (Information Gathering)
 
 ### Objective:
 - Gather initial information about the target to understand its attack surface.
@@ -44,7 +44,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Recon/Recon.pdf
 
-### 2. Vulnerability Scanning
+## 2. Vulnerability Scanning
 
 ### Objective:
 - Identify vulnerabilities, misconfigurations, and insecure services.
@@ -89,7 +89,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Scans/Openvas.pdf
 
-### 3. Vulnerability Analysis & CVE Documentation
+## 3. Vulnerability Analysis & CVE Documentation
 
 ### Objective:
 - Assess the severity and risk of identified vulnerabilities.
@@ -102,7 +102,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: CVE Sheet/CVE sheet screenshot.png
 
-### 4. Exploitation 
+## 4. Exploitation 
 
 ### Objective:
 - Validate vulnerabilities by controlled exploitation.
@@ -115,7 +115,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Exploitation/
 
-### 5. Post-Exploitation 
+## 5. Post-Exploitation 
 
 ### Objective:
 - Understand the impact after successful exploitation.
@@ -127,7 +127,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 
 ### Evidence: Exploitation/
 
-### 6. Risk Assessment & Prioritization
+## 6. Risk Assessment & Prioritization
 
 ### Objective:
 - To prioritize identified vulnerabilities based on severity and potential impact.
@@ -137,7 +137,7 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - Identify high and critical risk findings.
 - Recommend remediation priority.
 
-### 7. Reporting & Documentation
+## 7. Reporting & Documentation
 
 ### Objective:
 - To document findings in a clear and professional manner.
@@ -147,6 +147,6 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 - Organize evidence such as PDFs and screenshots.
 - Document workflow and observations.
 
-### 8. Conclusion
+## 8. Conclusion
 
 This project demonstrates a complete VAPT workflow including reconnaissance, vulnerability scanning, exploitation simulation, risk analysis, and documentation while adhering to ethical standards and industry-recognized methodologies.
