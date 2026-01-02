@@ -131,8 +131,8 @@ The objective is to understand reconnaissance, vulnerability scanning, exploitat
 4. Capture screenshots for evidence.
 
 ### Evidence: 
-### 1. Metaploit Exploitation - Week-2/Exploitation/metasploit_screenshots/Exploitation & Post-Exploitation.pdf 
-### 2. DVWA Exploitation - Week-2/Exploitation/DVWA/DVWA_screenshots.pdf 
+1. Metaploit Exploitation - Week-2/Exploitation/metasploit_screenshots/Exploitation & Post-Exploitation.pdf 
+2. DVWA Exploitation - Week-2/Exploitation/DVWA/DVWA_screenshots.pdf 
               
 ## 8. Post-Exploitation 
 
