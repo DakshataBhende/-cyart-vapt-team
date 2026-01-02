@@ -1,9 +1,9 @@
 # -cyart-vapt-team
 vapt_task02 
 
-# Week 2 – Vulnerability Assessment & Penetration Testing (VAPT)
+# Vulnerability Assessment & Penetration Testing (VAPT)
 
-## 1. Project Overview
+## 1. Overview
 
 This repository documents Week-2 Vulnerability Assessment and Penetration Testing (VAPT) activities performed in a controlled laboratory environment.
 The objective is to understand reconnaissance, vulnerability scanning, exploitation, post-exploitation and reporting using industry-standard tools and methodologies in an ethical and controlled lab environment.
