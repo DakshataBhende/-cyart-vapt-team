@@ -1,7 +1,7 @@
 # -cyart-vapt-team
 vapt_task02 
 
-# Week-2 Vulnerability Assessment & Penetration Testing (VAPT)
+# Week 2 - Vulnerability Assessment & Penetration Testing (VAPT)
 
 ## 1. Overview
 
